@@ -64,6 +64,8 @@ return Scaffold(
       OverlayMaskWidget(config)
     ]));
 ```
+The demo look like this:
+[![static_example_demo](https://github.com/kelly940806/overlay_mask/blob/master/static_example/assets/static_example.png "static_example_demo")](https://github.com/kelly940806/overlay_mask/blob/master/static_example/assets/static_example.png "static_example_demo")
 
 **Dynamic Example**
 It is an example for dynamically change the overlay mask. It is a common usage for onboarding intruction.
@@ -149,6 +151,11 @@ Last, just change the config at your desired moment and it works.
       }
     });
 ```
+The demo look like this:
+[![dynamic_example_demo_1](https://github.com/kelly940806/overlay_mask/blob/master/dynamic_example/assets/dynamic_example_1.png "dynamic_example_demo_1")](https://github.com/kelly940806/overlay_mask/blob/master/dynamic_example/assets/dynamic_example_1.png "dynamic_example_demo_1")
+[![dynamic_example_demo_2](https://github.com/kelly940806/overlay_mask/blob/master/dynamic_example/assets/dynamic_example_2.png "dynamic_example_demo_2")](https://github.com/kelly940806/overlay_mask/blob/master/dynamic_example/assets/dynamic_example_2.png "dynamic_example_demo_2")
+[![dynamic_example_demo_3](https://github.com/kelly940806/overlay_mask/blob/master/dynamic_example/assets/dynamic_example_3.png "dynamic_example_demo_3")](https://github.com/kelly940806/overlay_mask/blob/master/dynamic_example/assets/dynamic_example_3.png "dynamic_example_demo_3")
+
 
 ## See More
 You can get the source code in [github](https://github.com/kelly940806/overlay_mask "github")
